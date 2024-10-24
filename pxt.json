@@ -8,7 +8,9 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "_locales/ja/rubyblock5-strings.json",
+        "_locales/ja/rubyblock5-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
